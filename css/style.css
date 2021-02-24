@@ -14,7 +14,7 @@ p{
 
 /**===== Start Header Section =====**/
 .initial_header{
-    background: url("images/header.png");
+    background: url("./images/header.png");
     background-size: cover;
     background-repeat: no-repeat;
     display: block;
